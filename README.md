@@ -21,7 +21,7 @@ Jamile Rockenbach Ferreira, aluna do primeiro semestre de Ciências da Computaç
 - 🧽 Botão `Del` para apagar último caractere
 - 💬 Suporte a teclado
 - Texto "Bons Cálculos!" fixo no rodapé da janela
-- Efeito de brilho (hover) nos botões ao passar o mouse
+- Efeito de cores nos botões ao passar o mouse
 
 ---
 
