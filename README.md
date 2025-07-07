@@ -1,6 +1,6 @@
 ### Calculadora — Feita em Python com Tkinter! 🎀
 
-Uma calculadora com visual moderno, minimalista e elegante, funcionalidade completa e aquele toque rosa. Feita em Python usando **Tkinter**, com suporte a operações matemáticas completas, com objetivo de desenvolver lógica de programação e automização.
+Uma calculadora com visual moderno, minimalista e elegante, funcionalidade completa e aquele toque rosa. Feita em Python usando **Tkinter**, com suporte a operações matemáticas completas, com objetivo de desenvolver lógica de programação e automização. Ideal para incluir no portfólio, projetos escolares ou para treinar interfaces gráficas com um toque de personalidade! 
 
 ---
 
@@ -19,7 +19,9 @@ Jamile Rockenbach Ferreira, aluna do primeiro semestre de Ciências da Computaç
   - `^` Potência
   - `()` Parênteses automáticos inteligentes
 - 🧽 Botão `Del` para apagar último caractere
-- 💬 Suporte a teclado (pressione Enter, Backspace, etc.)
+- 💬 Suporte a teclado
+- Texto "Bons Cálculos!" fixo no rodapé da janela
+- Efeito de brilho (hover) nos botões ao passar o mouse
 
 ---
 
