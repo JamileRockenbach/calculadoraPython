@@ -33,3 +33,4 @@ Jamile Rockenbach Ferreira, aluna do primeiro semestre de Ciências da Computaç
 - Arquivo `.ico` personalizado para o ícone
 
 ---
+![Tela da calculadora](./recursos/calculadora.jpeg)
